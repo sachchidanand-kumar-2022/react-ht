@@ -1,0 +1,7 @@
+.btn{
+    max-width: fit-content;
+    background-color: dodgerblue;
+    color: azure;
+    padding: 10px;
+    border-radius: 10px;
+}
